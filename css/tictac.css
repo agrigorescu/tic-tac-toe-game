@@ -1,0 +1,22 @@
+/*css*/
+body {
+    border: 1px solid black;
+    margin: auto 30vw;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 80vh;
+    /*text-align: center;*/
+    margin: 3vw;
+}
+
+.button {
+    display: inline-block;
+    width: 20vh;
+    height: 20vh;
+}
